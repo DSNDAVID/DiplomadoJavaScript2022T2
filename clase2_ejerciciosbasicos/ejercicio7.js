@@ -15,4 +15,3 @@ prompt.get(['valor1',], funtion (err, result) {
 else
     
     console.log( result.valor1 +'no es divisible ' )
-}

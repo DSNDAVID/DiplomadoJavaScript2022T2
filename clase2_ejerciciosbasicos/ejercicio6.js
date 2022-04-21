@@ -1,3 +1,4 @@
+
 const prompt = require('prompt')
 
 prompt.start()
@@ -16,5 +17,4 @@ prompt.get(['valor1','valor2','valor3'], funtion (err, result){
 
 } else{
     console.log( ' el mayor es ' + result.valor3);}
-   
 
